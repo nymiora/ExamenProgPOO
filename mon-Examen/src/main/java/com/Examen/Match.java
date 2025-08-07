@@ -14,6 +14,9 @@ public class Match {
     private Date date;
     private String endroit;
     private TypeMatch typeMacth;
+    private Combattants combattants;
 
-
+    public <palmares> void match(TypeMatch match, palmares){
+    }
 }
+
